@@ -1,0 +1,110 @@
+body{
+	margin:0 auto; 
+	font-family: arial;
+}
+
+.selected { 
+	background-color: #2D89EF !important; 
+	border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    }
+
+.if{display: inline-block;}
+.itemID{
+	border: 1px solid #EEE;
+	display: inline-block;
+	padding: 5px;	
+	margin: 5px;
+	font-size: 0.8em;
+}
+
+.itemID img{
+	width: 140px;
+}
+
+#presenter{
+	position: fixed;
+   	top: 50%;
+   	left: 50%;
+}
+
+.cartview img{
+	width: 110px;
+}
+
+.container{
+	display: block;
+	clear:both;
+}
+.footer{display: block;}
+
+.leftsidebar{
+	width: 25%;
+	float: left;
+}
+.leftsidebar a{
+	display: block;
+	margin: 5px;
+	cursor: pointer;
+}
+
+.nav a.types{
+	display: block;
+	margin: 5px;
+	cursor: pointer;
+}
+
+.itemIMG{
+	width: 50%;
+	float: left;
+	display: inline-block;
+}
+
+.itemInfo table{
+	width: 40%;
+	display: inline-block;
+}
+
+.itemInfo input, select{width:50px;}
+
+.content, .cartview{
+	width: 73%;
+	display: inline-block;
+	float: right;
+}
+
+.cartview input, select{width:50px;}
+.totalcost{	float:right;}
+
+.orderForm {padding-left: 5%}
+.orderForm input,
+.orderForm textarea{
+	width: 50%;
+	min-width: 350px;
+}
+
+#orderDetails{
+	display: none;
+	padding: 10px;
+}
+
+.btn-info{
+	float: right;
+}
+
+.btn{margin-right:5px;}
+
+.selected{background: orange}
+
+.validationMessage {
+	padding: 8px 35px 8px 14px;
+  	text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+  	background-color: #fcf8e3;
+  	border: 1px solid #fbeed5;
+  	-webkit-border-radius: 4px;
+     	-moz-border-radius: 4px;
+          border-radius: 4px;
+	color: #b94a48;
+  	border-color: #eed3d7;
+  	margin-bottom: 10px;
+}

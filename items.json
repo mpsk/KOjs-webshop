@@ -1,0 +1,101 @@
+[
+{
+	"articul":"5215506827",
+	"type":"T-Shirt",
+	"price":"199",
+	"size":["S","M","L","XL"],
+	"img":"./img/item/5215506827_2_4_2.jpg"
+
+},
+{
+	"articul":"5239549828",
+	"type":"T-Shirt",
+	"price":"399",
+	"size":["S","M","L","XL"],
+	"img":"./img/item/5239549828_2_4_2.jpg"
+},
+{
+	"articul":"5239554827",
+	"type":"T-Shirt",
+	"price":"249",
+	"size":["S","M","L","XL"],
+	"img":"./img/item/5239554827_2_4_2.jpg"
+},
+{
+	"articul":"5240515926",
+	"type":"T-Shirt",
+	"price":"249",
+	"size":["S","M","L"],
+	"img":"./img/item/5240515926_2_4_2.jpg"
+},
+{
+	"articul":"5472524400", 
+	"type":"Shirt",
+	"price":"249",
+	"size":["S","M","L","XL"],
+	"img":"./img/item/5472524400_2_4_2.jpg"
+},
+{
+	"articul":"5472534400",
+	"type":"Shirt",
+	"price":"249",
+	"size":["S","M","L","XL"],
+	"img":"./img/item/5472534400_2_4_2.jpg"
+},
+{
+	"articul":"5472546600", 
+	"type":"Shirt",
+	"price":"359",
+	"size":["S","M","L","XL"],
+	"img":"./img/item/5472546600_2_4_2.jpg"
+},
+{
+	"articul":"5472547400", 
+	"type":"Shirt",
+	"price":"249",
+	"size":["S","M","L","XL"],
+	"img":"./img/item/5472547400_2_4_2.jpg"
+},
+{
+	"articul":"5472549600",
+	"type":"Shirt",
+	"price":"249",
+	"size":["S","M","L","XL"],
+	"img":"./img/item/5472549600_2_4_2.jpg"
+},
+{
+	"articul":"5472551802", 
+	"type":"Shirt",
+	"price":"359",
+	"size":["S","M","L","XL"],
+	"img":"./img/item/5472551802_2_4_2.jpg"
+},
+{
+	"articul":"5681501305", 
+	"type":"Pants",
+	"price":"359",
+	"size":["S","M","L","XL"],
+	"img":"./img/item/5681501305_2_4_2.jpg"
+},
+{
+	"articul":"5683510401", 
+	"type":"Pants",
+	"price":"249",
+	"size":["S","M","L","XL"],
+	"img":"./img/item/5683510401_2_4_2.jpg"
+},
+{
+	"articul":"5683518401",
+	"type":"Pants",
+	"price":"249",
+	"size":["S","M","L","XL"],
+	"img":"./img/item/5683518401_2_4_2.jpg"
+},
+{
+	"articul":"9203517405", 
+	"type":"T-Shirt",
+	"price":"359",
+	"size":["S","M","L","XL"],
+	"img":"./img/item/9203517405_2_4_2.jpg"
+}
+]
