@@ -1,7 +1,7 @@
 Notice: Open index.html file via Mozilla, because Chrome doesnt load local JSON data.
 
 
-Used:
+Used:	
 KnockoutJS - MVVM, data-binding.
 RequireJS - module loading.
 jQuery - used with SammyJS for hide some DOM elements with routing.
